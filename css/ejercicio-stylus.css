@@ -69,7 +69,8 @@ body {
   font-size: 25px;
   color: #333;
 }
-.contenido {
+.contenido,
+.contenido2 {
   margin-bottom: 40px;
   -webkit-box-pack: space-evenly;
       -ms-flex-pack: space-evenly;
