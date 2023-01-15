@@ -69,7 +69,8 @@ body {
   font-size: 25px;
   color: #8841da;
 }
-.contenido {
+.contenido,
+.contenido2 {
   margin-bottom: 40px;
   -webkit-box-pack: space-evenly;
       -ms-flex-pack: space-evenly;
@@ -86,6 +87,9 @@ body {
   background-color: #fff;
   -webkit-box-shadow: 0px 20px 33px 0px rgba(0,0,0,0.2);
           box-shadow: 0px 20px 33px 0px rgba(0,0,0,0.2);
+}
+.caja img {
+  width: 430px;
 }
 .caja__contenido {
   padding: 20px;
